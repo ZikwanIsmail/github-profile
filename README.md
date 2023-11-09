@@ -13,9 +13,8 @@ Saya adalah Zikwan Ismail, seorang currently studying computer science dengan mi
 
 Berikut adalah beberapa proyek terbaru yang saya kerjakan:
 
-- [Nama Proyek 1](link): Deskripsi singkat proyek 1.
-- [Nama Proyek 2](link): Deskripsi singkat proyek 2.
-- [Nama Proyek 3](link): Deskripsi singkat proyek 3.
+- Simple Game([link](https://github.com/ZikwanIsmail/Game-UAP-dan-Project-Akhir-DDP.git)): DDP
+
 
 ## Statistik GitHub
 
